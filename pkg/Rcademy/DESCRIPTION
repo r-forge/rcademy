@@ -1,0 +1,9 @@
+Package: Rcademy
+Type: Package
+Title: www.Rcademy.org online education for R
+Version: 0.1
+Date: 2012-09-05
+Author: Jonathan Cornelissen
+Maintainer: Jonathan Cornelissen <jonathan.cornelissen@kuleuven.be>
+Description: Rcademy: online educational tools for R
+License: GPL (>= 2)
